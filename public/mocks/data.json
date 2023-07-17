@@ -1,0 +1,85 @@
+{
+    "avatars": [
+        {
+            "id": 1,
+            "name": "Annie Oakley",
+            "description": "",
+            "price": 3500,
+            "type": "UNCOMMON",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/16/FG_Art_3_Annie_Oakley.png"
+        },
+        {
+            "id": 2,
+            "name": "Astronaut",
+            "description": "",
+            "price": 2500,
+            "type": "COMMON",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/3/3b/FG_Art_Astronaut.png"
+        },
+        {
+            "id": 3,
+            "name": "Ninja",
+            "description": "",
+            "price": 7000,
+            "type": "EPIC",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/e/e3/FG_Art_Ninja.png"
+        },
+        {
+            "id": 4,
+            "name": "Spring Daisies",
+            "description": "",
+            "price": 7000,
+            "type": "LEGENDARY",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/10/FG_Art_Spring_Daisies.png"
+        },
+        {
+            "id": 5,
+            "name": "Builder",
+            "description": "",
+            "price": 4500,
+            "type": "UNCOMMON",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/3/33/FG_Art_Builder.png"
+        },
+        {
+            "id": 6,
+            "name": "El Fuego",
+            "description": "",
+            "price": 11500,
+            "type": "LEGENDARY",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/8/82/FG_Art_El_Fuego.png"
+        },
+        {
+            "id": 7,
+            "name": "Ms. Chalice",
+            "description": "",
+            "price": 2700,
+            "type": "LEGENDARY",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/7/7c/FG_Art_Ms._Chalice.png"
+        },
+        {
+            "id": 8,
+            "name": "Hot Dog",
+            "description": "",
+            "price": 4500,
+            "type": "RARE",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/7/7f/FG_Art_Hot_Dog.png"
+        },
+        {
+            "id": 9,
+            "name": "Fall Spirit",
+            "description": "",
+            "price": 7500,
+            "type": "LEGENDARY",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/a4/Fall_Spirit.png"
+        },
+        {
+            "id": 10,
+            "name": "Scout",
+            "description": "",
+            "price": 8500,
+            "type": "LEGENDARY",
+            "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/5/58/FG_Art_Goopy_Space_Slug.png"
+        }
+    ]
+}
+
