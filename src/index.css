@@ -12,7 +12,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #a9b3ce;
+  background-color: #8546FB
   /* background-image: url('https://cdn2.unrealengine.com/fall-guys-home-page-hero-background-desktop3-1920x1080-dcbde3385c1e.jpg?resize=1&w=1920'); */
 }
 
@@ -58,4 +58,8 @@ code {
 
 .titleHero{
   font-family: 'Titan One', cursive;
+}
+
+.notFoundBG{
+  background-image: url('https://cdn2.unrealengine.com/404-background-1440x1133-cf0fd1f7d145.png?resize=1&w=1920');
 }
