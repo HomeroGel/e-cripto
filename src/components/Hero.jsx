@@ -9,7 +9,7 @@ export const Hero = () => {
             <img className="animacion" src="https://cdn2.unrealengine.com/ui-tombraider-standard-0011-2800x3450-edbbb01239c1.png?resize=1&w=840" alt="" />
             <img className="animacion" src="https://cdn2.unrealengine.com/ui-fullyposable-standard-0006-2800x3450-cbac47215b2c.png?resize=1&w=840" alt="" />
         </div>
-        <button>Explorar</button>
+        {/* <button>Explorar</button> */}
     </>
   )
 }
