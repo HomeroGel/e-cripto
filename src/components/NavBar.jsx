@@ -9,8 +9,8 @@ export const NavBar = () => {
       <LinkRouter to={`/`}><img src="https://i.redd.it/dftozda294791.png" className='w-28' alt="" /></LinkRouter>
       <nav className='text-white'>
         <ul className='flex'>
-          <LinkRouter to={`/category/avatar`}><li className='px-3'>Avatars</li></LinkRouter>
-          <LinkRouter to={`/category/kudos`}><li className='px-3'>Kudos</li></LinkRouter>
+          <LinkRouter to={`/category/avatar`}><li className='px-3 subFont'>Avatars</li></LinkRouter>
+          <LinkRouter to={`/category/kudos`}><li className='px-3 subFont'>Kudos</li></LinkRouter>
         </ul>
       </nav>
       <LinkRouter to={`/carrito`}><CartWidget /></LinkRouter>

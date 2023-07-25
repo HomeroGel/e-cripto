@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 
 export const ItemDetailContainer = () => {
     const { id } = useParams()
@@ -13,20 +13,28 @@ export const ItemDetailContainer = () => {
     }, [])
 
     const { items } = products
+
     let filterProducts = items && items.filter(item => item.id === parseInt(id))
     return (
-        <div className='container mx-auto justify-center mt-10'>
+        <div className=' mt-10 h-[70vh] flex items-center'>
             {filterProducts?.map(product => {
                 return (
-                    <div className='bg border-8 rounded-md m-6 p-10 flex flex-col items-center' key={product.id}>
-                        <p className=''>{product.type}</p>
-                        <img
-                            src={product.image}
-                            alt={product.name} />
-                        <div className='text-center text-white mb-5'>
-                            <strong>{product.name}</strong> - ${product.price}
+                    <div className='flex flex-col items-center justify-center  w-full' key={product.id}>
+                        <p className='titleHero tracking-wide font-light text-white text-2xl'>{product.name} - ${product.price}</p>
+                        <p className='titleHero text-white text-lg border-4 rounded-3xl px-5 '>{product.type}</p>
+                        <div className='flex justify-evenly w-full mt-10'>
+                            <div>
+                                <img
+                                    className='w-[25rem] h-auto'
+                                    src={product.image}
+                                    alt={product.name} />
+                            </div>
+                            <div className='text-center text-white mb-5 w-96 flex flex-col justify-around'>
+                                <p className='text-white subFont text-xl'>{product.description}</p>
+                                <button className='titleHero text-white text-lg bg-[#4CB8F9] hover:bg-[#50a8de] border-4 rounded-3xl px-4 py-2'>Agregar al carrito</button>
+                            </div>
                         </div>
-                        <Link to={`/`}><button className='bg-purple-700 text-white rounded-full px-4 py-2 font-bold hover:bg-purple-400 titleHero'>Volver</button></Link>
+                        
                     </div>
                 )
             })}

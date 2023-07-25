@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@200&family=Titan+One&display=swap');
 
 
 body {
@@ -58,6 +58,10 @@ code {
 
 .titleHero{
   font-family: 'Titan One', cursive;
+}
+
+.subFont {
+  font-family: 'Asap', sans-serif;
 }
 
 .notFoundBG{

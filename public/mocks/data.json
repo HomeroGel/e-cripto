@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Annie Oakley",
-            "description": "",
+            "description": "Disfruta de esta vaquera del lejano Oeste, y llega a la meta festejando con un gran sapucay.",
             "price": 3500,
             "type": "UNCOMMON",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/16/FG_Art_3_Annie_Oakley.png",
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "name": "Astronaut",
-            "description": "",
+            "description": "Sumergete en el espacio con Astronaut y se el dueño de la gravedad!",
             "price": 2500,
             "type": "COMMON",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/3/3b/FG_Art_Astronaut.png",
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "name": "Ninja",
-            "description": "",
+            "description": "Sorprende a tus oponentes con tus sigilosos movimientos y llega al final de la carrera sin que ellos lo noten.",
             "price": 7000,
             "type": "EPIC",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/e/e3/FG_Art_Ninja.png",
@@ -30,7 +30,7 @@
         {
             "id": 4,
             "name": "Spring Daisies",
-            "description": "",
+            "description": "Sin dudas que Spring Daisies no le cae mal a nadie, deseas ser el? Obtenlo aqui.",
             "price": 7000,
             "type": "LEGENDARY",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/10/FG_Art_Spring_Daisies.png",
@@ -39,7 +39,7 @@
         {
             "id": 5,
             "name": "Builder",
-            "description": "",
+            "description": "Se el constructor que siempre quisiste ser comprando esta skin de Builder, no dejaras de construir edificios y plataformas!",
             "price": 4500,
             "type": "UNCOMMON",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/3/33/FG_Art_Builder.png",
@@ -48,7 +48,7 @@
         {
             "id": 6,
             "name": "El Fuego",
-            "description": "",
+            "description": "Enfrenta a tus rivales como si no hubiese un mañana, lo que para ellos es una simple carrera, para El Fuego es toda una batalla.",
             "price": 11500,
             "type": "LEGENDARY",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/8/82/FG_Art_El_Fuego.png",
@@ -57,7 +57,7 @@
         {
             "id": 7,
             "name": "Ms. Chalice",
-            "description": "",
+            "description": "Con Ms. Chalice tendras una gran cabeza, pero eso no te impedira ir mas lento, puedes llegar a la meta primero de todas formas!",
             "price": 2700,
             "type": "LEGENDARY",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/7/7c/FG_Art_Ms._Chalice.png",
@@ -66,7 +66,7 @@
         {
             "id": 8,
             "name": "Hot Dog",
-            "description": "",
+            "description": "Solo ruega no encontrarte a ningun oponente cerca con el estomago vacio! De ser asi, corre!",
             "price": 4500,
             "type": "RARE",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/7/7f/FG_Art_Hot_Dog.png",
@@ -75,7 +75,7 @@
         {
             "id": 9,
             "name": "Fall Spirit",
-            "description": "",
+            "description": "Con Fall Spirit seras una porrista al estilo Estados Unidos, alienta a tu equipo!",
             "price": 7500,
             "type": "LEGENDARY",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/a/a4/Fall_Spirit.png",
@@ -84,7 +84,7 @@
         {
             "id": 10,
             "name": "Scout",
-            "description": "",
+            "description": "Con Scout podras ir sin molestias hacia la meta, ya que los asustaras con tu super ojo de alien!",
             "price": 8500,
             "type": "LEGENDARY",
             "image": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/5/58/FG_Art_Goopy_Space_Slug.png",
@@ -93,7 +93,7 @@
         {
             "id": 11,
             "name": "Kudos",
-            "description": "",
+            "description": "Obten nuestra moneda y compra con ella nuestros cosmeticos!",
             "price": 1000,
             "type": "LEGENDARY",
             "image": "/kudos.webp",
@@ -102,7 +102,7 @@
         {
             "id": 12,
             "name": "Kudos",
-            "description": "",
+            "description": "Obten nuestra moneda y compra con ella nuestros cosmeticos!",
             "price": 2000,
             "type": "LEGENDARY",
             "image": "/kudos.webp",
@@ -111,7 +111,7 @@
         {
             "id": 13,
             "name": "Kudos",
-            "description": "",
+            "description": "Obten nuestra moneda y compra con ella nuestros cosmeticos!",
             "price": 3000,
             "type": "LEGENDARY",
             "image": "/kudos.webp",
@@ -120,7 +120,7 @@
         {
             "id": 14,
             "name": "Kudos",
-            "description": "",
+            "description": "Obten nuestra moneda y compra con ella nuestros cosmeticos!",
             "price": 4000,
             "type": "LEGENDARY",
             "image": "/kudos.webp",
@@ -129,7 +129,7 @@
         {
             "id": 15,
             "name": "Kudos",
-            "description": "",
+            "description": "Obten nuestra moneda y compra con ella nuestros cosmeticos!",
             "price": 5000,
             "type": "LEGENDARY",
             "image": "/kudos.webp",
