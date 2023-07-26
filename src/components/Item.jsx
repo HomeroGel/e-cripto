@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 export const Item = ({product}) => {
   return (
     <div  className='bg border-8 rounded-md m-6 p-10 flex flex-col items-center justify-center' key={product.id}>
-      <p className=''>{product.type}</p>
+      <p className='text-white titleHero font-light mb-2'>{product.type}</p>
       <img
         src={product.image}
         alt={product.name} />

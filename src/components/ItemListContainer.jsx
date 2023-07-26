@@ -17,7 +17,7 @@ export const ItemListContainer = () => {
   
   return (
     <>
-      <h2 className="container mx-auto titleHero text-white text-5xl mt-36">Nuestros avatars</h2>
+      <h2 className="container mx-auto titleHero text-white text-5xl mt-36 max-[767px]:text-4xl max-[767px]:text-center">Nuestros items</h2>
       <div className='flex flex-col items-center justify-center'>
       <div className='flex flex-col items-center justify-center'>
           <div>

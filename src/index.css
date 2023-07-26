@@ -67,3 +67,10 @@ code {
 .notFoundBG{
   background-image: url('https://cdn2.unrealengine.com/404-background-1440x1133-cf0fd1f7d145.png?resize=1&w=1920');
 }
+
+
+@media (max-width : 425px){
+  
+
+  
+}
